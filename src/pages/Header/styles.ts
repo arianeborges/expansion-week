@@ -4,6 +4,10 @@ import { shade } from "polished";
 export const Container = styled.div`
   max-width: 550px;
 
+  img {
+    width: 40%;
+  }
+
   h1 {
     font-size: 48px;
     line-height: 56px;

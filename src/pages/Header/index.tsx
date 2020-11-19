@@ -2,7 +2,7 @@ import React from "react";
 
 import { Container } from "./styles";
 
-import logoImg from "../../assets/logo-github-explorer.svg";
+import logoImg from "../../assets/goteamwork_transp2.png";
 
 const Header: React.FC = () => {
   return (
