@@ -18,6 +18,7 @@ const Tweets: React.FC = () => {
         <FaArrowDown />
         <FaArrowDown />
       </h2>
+
       <div>
         <div className="divimg">
           <img src={tweet1} alt="Tweet 1" />
@@ -32,7 +33,13 @@ const Tweets: React.FC = () => {
           <img src={tweet4} alt="Tweet 4" />
         </div>
       </div>
-      lan
+
+      <h2>POR ONDE COMEÇAR?</h2>
+      <p>
+        Acreditamos que as pessoas precisam desenvolver a habilidade de
+        trabalhar em equipe e por isso desenvolvemos algumas técnicas que podem
+        te ajudar a começar:
+      </p>
     </Container>
   );
 };

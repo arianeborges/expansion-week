@@ -11,15 +11,22 @@ const BodyContent: React.FC = () => {
         props="after"
         src={GoTeamwork}
         alt="Github Explorer"
-        title="Lorem"
-        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title="Comunique, todo dia, de todo jeito"
+        text="Uma boa comunicação é a base de um trabalho em equipe. Seja claro, saiba ouvir, não tenha medo de perguntar e faça reuniões informais."
       />
       <Body
         props="before"
         src={GoTeamwork}
         alt="Github Explorer"
-        title="Lorem"
-        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title="Peça feedbacks"
+        text="Seja positivo ou negativo, receber um feedback é sempre construtivo para o seu crescimento pessoal. O feedback tem o objetivo de apontar o que pode ser melhorado e apresentar meios para que isso aconteça."
+      />
+      <Body
+        props="after"
+        src={GoTeamwork}
+        alt="Github Explorer"
+        title="Aceite as diferenças"
+        text="Não julgue o colega de time por expressar sua opinião. Não jogue favoritos com base em sua própria personalidade. Faça diferente no modo como aborda e aprecia as diferentes opiniões."
       />
     </>
   );

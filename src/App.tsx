@@ -1,7 +1,7 @@
 import React from "react";
 import Body from "./pages/BodyContent";
 import Header from "./pages/Header";
-import Tweets from "./pages/Tweets";
+import Tweets from "./pages/Landing";
 
 import GlobalStyle from "./styles/global";
 
