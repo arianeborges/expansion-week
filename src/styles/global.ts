@@ -16,7 +16,7 @@ export default createGlobalStyle`
 
   body, input, button {
     font-family: 'PT Serif', serif;
-    font-size: 16px;
+    font-size: 17px;
   }
 
   h1, h2, h3, h4, h5, h6, strong{

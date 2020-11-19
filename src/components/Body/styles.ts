@@ -5,7 +5,7 @@ export const Container = styled.div`
   height: 300px;
   margin-top: 25px;
 
-  background-color: #a52a2a;
+  /* background-color: #a52a2a; */
 
   display: flex;
 
@@ -15,7 +15,7 @@ export const Container = styled.div`
 
   div {
     padding: 5%;
-    background-color: pink;
+    /* background-color: pink; */
 
     display: flex;
     flex-direction: row;

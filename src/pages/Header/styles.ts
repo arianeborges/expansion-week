@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { shade } from "polished";
 
 export const Container = styled.div`
-  max-width: 550px;
+  max-width: 670px;
 
   img {
     width: 40%;
@@ -19,9 +19,14 @@ export const Container = styled.div`
 
   p {
     margin-top: 30px;
+    margin-bottom: 15px;
+    strong {
+      font-weight: bold;
+      background-color: #ed6663;
+    }
   }
 
-  button {
+  /* button {
     width: 150px;
     height: 40px;
 
@@ -39,5 +44,5 @@ export const Container = styled.div`
     &:hover {
       background: ${shade(0.2, "#ed6663")};
     }
-  }
+  } */
 `;
