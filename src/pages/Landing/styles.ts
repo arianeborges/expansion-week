@@ -2,12 +2,13 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   h2 {
-    background-color: black;
+    background-color: #43658b;
     width: 100%;
     text-align: center;
     border-radius: 10px;
     margin-top: 40px;
     padding: 10px;
+    font-weight: bold;
 
     svg {
       position: relative;
@@ -38,5 +39,6 @@ export const Container = styled.div`
   p {
     font-size: 18px;
     margin-top: 20px;
+    font-weight: bold;
   }
 `;
