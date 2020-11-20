@@ -1,11 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  max-width: 650px;
+  max-width: 820px;
   height: 300px;
   margin-top: 25px;
-
-  /* background-color: #a52a2a; */
 
   display: flex;
 
@@ -15,7 +13,6 @@ export const Container = styled.div`
 
   div {
     padding: 5%;
-    /* background-color: pink; */
 
     display: flex;
     flex-direction: row;

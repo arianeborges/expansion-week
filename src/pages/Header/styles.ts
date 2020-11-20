@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { shade } from "polished";
 
 export const Container = styled.div`
   max-width: 670px;
@@ -25,24 +24,4 @@ export const Container = styled.div`
       background-color: #ed6663;
     }
   }
-
-  /* button {
-    width: 150px;
-    height: 40px;
-
-    color: #fff;
-    background-color: #ed6663;
-    font-weight: bold;
-
-    margin-top: 20px;
-
-    border-radius: 10px;
-    border: 0;
-
-    transition: background-color 0.2s;
-
-    &:hover {
-      background: ${shade(0.2, "#ed6663")};
-    }
-  } */
 `;

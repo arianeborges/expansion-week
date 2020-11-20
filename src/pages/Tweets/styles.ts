@@ -39,6 +39,5 @@ export const Container = styled.div`
   p {
     font-size: 18px;
     margin-top: 20px;
-    font-weight: bold;
   }
 `;
